@@ -1,4 +1,4 @@
-# Video Game Sales in R
+# Video Game Sales
 
 The goal of this project was to find the optimum model between Random Forest and Lasso Regression to predict sales of a new video game in North America using R.
 
